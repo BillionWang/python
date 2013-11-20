@@ -1,4 +1,3 @@
-class Bird:
     def __init__(self):
         self.hungry = True
         self.sing = 'bird'
