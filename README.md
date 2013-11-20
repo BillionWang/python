@@ -1,4 +1,0 @@
-python
-======
-
-my python
