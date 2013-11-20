@@ -1,5 +1,2 @@
-int go to
-
-goto here what you want
-
+hello ,what do you want
 
